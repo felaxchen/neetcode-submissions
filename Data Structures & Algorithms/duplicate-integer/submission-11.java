@@ -1,0 +1,17 @@
+class Solution {
+    public boolean hasDuplicate(int[] nums) {
+        Scanner sc=new Scanner(System.in);
+        n=sc.nextInt();
+        int[] arr=new arr();
+        for(i=0;i<=n;i++)
+        {
+         n[i]=sc.nextInt();
+
+        }
+        if(a[i]==a[i+1])
+        return true;
+        else 
+        return false;
+        
+    }
+}
